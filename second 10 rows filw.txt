@@ -8,10 +8,3 @@
 8 row
 9 row
 10 row
-
-
-
-hello rfom git_1
-=======
-hello from git_2
-
